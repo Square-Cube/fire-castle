@@ -1,0 +1,6 @@
+[12-Apr-2018 13:56:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/heshamgamal/public_html/fire-castle/vendor/symfony/http-foundation/Response.php on line 499
+[12-Apr-2018 13:56:05 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[12-Apr-2018 13:56:46 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/heshamgamal/public_html/fire-castle/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 19
+[12-Apr-2018 13:57:08 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/heshamgamal/public_html/fire-castle/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 19
+[25-Apr-2018 10:15:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/heshamgamal/public_html/fire-castle/vendor/symfony/http-foundation/Response.php on line 499
+[25-Apr-2018 10:15:14 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
